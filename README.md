@@ -1,5 +1,7 @@
 # e-commerce
 ### Output
+
+![Screenshot (366)](https://github.com/user-attachments/assets/9a17cc73-24e2-42dc-a30c-34d109f7455a)
 ** Shipping Details **
 
 2x Cheese (200g each)
@@ -16,6 +18,7 @@ Total weight: 3.90 kg
 2x Cheese = 200.00
 
 1x Biscuits = 150.00
+
 
 1x TV = 300.00
 
