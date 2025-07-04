@@ -6,15 +6,16 @@ public class DurableItem extends Item implements Transportable {
         this.weight = weight;
     }
 
-    public boolean isExpired() {
-        return false;
+    public double getWeight() {
+        return weight;
     }
 
     public boolean isShippable() {
         return true;
     }
 
-    public double getWeight() {
-        return weight;
+    public boolean isExpired() {
+        return false;
     }
+
 }
